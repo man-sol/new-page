@@ -65,3 +65,21 @@ setTimeout(() => {
     clearInterval(id)
 
 }, 30000)
+
+
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
